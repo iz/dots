@@ -1,0 +1,6 @@
+Rxvt*background: black
+Rxvt*foreground: white
+Rxvt*scrollBar: False
+Rxvt*SaveLines: 9000
+Rxvt*loginShell: True
+Rxvt*font: Consolas-12
