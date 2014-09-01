@@ -4,3 +4,5 @@ Rxvt*scrollBar: False
 Rxvt*SaveLines: 9000
 Rxvt*loginShell: True
 Rxvt*font: Consolas-12
+Rxvt*color4:  #3456bc
+Rxvt*color12: #7269de
